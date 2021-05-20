@@ -7,7 +7,7 @@ export default props => {
       <Row noGutters className="text-center align-items-center pizza-cta">
         <Col>
           <p className="looking-for-pizza">
-            If you're looking for great pizza
+            If you're looking for great Cuisine
             <i className="fas fa-pizza-slice pizza-slice"></i>
           </p>
           <Button
